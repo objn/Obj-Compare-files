@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "DLa2alWQPJRENvEUQwpO+BCfyHxhkwfT6S7S6DayiGkK8+44x1w2m0gfGXOaLmdmgvIdxqmXN9pUcWla5q7vdQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\objna\\source\\repos\\ObjComparefiles\\ObjComparefiles\\ObjComparefiles.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\objna\\.nuget\\packages\\epplus\\6.2.6\\epplus.6.2.6.nupkg.sha512",
+    "C:\\Users\\objna\\.nuget\\packages\\epplus.interfaces\\6.1.1\\epplus.interfaces.6.1.1.nupkg.sha512",
+    "C:\\Users\\objna\\.nuget\\packages\\epplus.system.drawing\\6.1.1\\epplus.system.drawing.6.1.1.nupkg.sha512",
+    "C:\\Users\\objna\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "C:\\Users\\objna\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\objna\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\7.0.0\\microsoft.extensions.configuration.fileextensions.7.0.0.nupkg.sha512",
+    "C:\\Users\\objna\\.nuget\\packages\\microsoft.extensions.configuration.json\\7.0.0\\microsoft.extensions.configuration.json.7.0.0.nupkg.sha512",
+    "C:\\Users\\objna\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\7.0.0\\microsoft.extensions.fileproviders.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\objna\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\7.0.0\\microsoft.extensions.fileproviders.physical.7.0.0.nupkg.sha512",
+    "C:\\Users\\objna\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\7.0.0\\microsoft.extensions.filesystemglobbing.7.0.0.nupkg.sha512",
+    "C:\\Users\\objna\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\objna\\.nuget\\packages\\microsoft.io.recyclablememorystream\\2.2.1\\microsoft.io.recyclablememorystream.2.2.1.nupkg.sha512",
+    "C:\\Users\\objna\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\objna\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\objna\\.nuget\\packages\\system.formats.asn1\\7.0.0\\system.formats.asn1.7.0.0.nupkg.sha512",
+    "C:\\Users\\objna\\.nuget\\packages\\system.security.cryptography.pkcs\\7.0.2\\system.security.cryptography.pkcs.7.0.2.nupkg.sha512",
+    "C:\\Users\\objna\\.nuget\\packages\\system.text.encoding.codepages\\7.0.0\\system.text.encoding.codepages.7.0.0.nupkg.sha512",
+    "C:\\Users\\objna\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\objna\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
